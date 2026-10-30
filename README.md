@@ -24,7 +24,7 @@ I am a passionate backend engineer focused on building robust, concurrent, and s
 
 ### ⚡ Featured Project
 
-#### [GoPower — Smart Grid Energy Dispatching Microservice](https://github.com/milad-ghaderi-dev/GoPower)
+#### [GridPulse — Smart Grid Energy Dispatching Microservice](https://github.com/milad-ghaderi-dev/gridpulse)
 > A production-grade, highly-concurrent microservice simulating smart renewable microgrids (Solar, Wind, Battery Storage).
 - **Core:** Actor-style real-time WebSocket hub with non-blocking broadcasting & ping/pong heartbeats.
 - **Data Safety:** ACID database transactions for atomic energy dispatching.
